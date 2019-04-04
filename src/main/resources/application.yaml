@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: dubbo-consumer-amoe
+  main:
+    allow-bean-definition-overriding: true
+dubbo:
+  application:
+    name: dubbo-consumer
+    owner: Amoe
+    organization: io.amoe
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  consumer:
+    check: false
