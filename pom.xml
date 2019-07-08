@@ -19,7 +19,7 @@
 
         <dubbo.provider.version>1.0.0</dubbo.provider.version>
 
-        <zookeeper.version>3.4.13</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <zkclient.version>0.10</zkclient.version>
         <curator.version>4.2.0</curator.version>
         <netty.version>4.1.32.Final</netty.version>
